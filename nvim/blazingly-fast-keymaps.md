@@ -1,4 +1,4 @@
-# source: [thevimeagen](https://www.youtube.com/watch?v=-ybCiHPWKNA)
+zsh:1: command not found: s
   keymap: ":"
     • normal mode
     • navigate using hjkl
