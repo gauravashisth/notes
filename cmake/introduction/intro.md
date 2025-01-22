@@ -1,6 +1,6 @@
-#CMAKE:
+# CMAKE:
 
-##1. usefulness of cmake:
+## 1. usefulness of cmake:
 - Cross_Platform Build System
   ° can generate platform-specific build files, from a single configuration file (CMakeLists.txt).
 
