@@ -1,4 +1,4 @@
-# Exercide 1: building a basic project
+# Exercise 1 - Building a Basic Project
 
 ## description:
 basic camke project is an executable build from a single source code file.
