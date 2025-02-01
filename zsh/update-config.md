@@ -10,5 +10,3 @@ for oh-my-zsh command is: omz
 to change prompt, command is: p10k configure
 
 apply changes: source ~/.p10k.zsh
-
-asas
