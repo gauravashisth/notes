@@ -4,7 +4,7 @@
 - tool taht generates native build system files.
 - making porject portable across different systems and envirnoments.
 
-## . nede  of cmake:
+## • nede  of cmake:
 - Cross_Platform Build System
   - can generate platform-specific build files, from a single configuration file (CMakeLists.txt).
 

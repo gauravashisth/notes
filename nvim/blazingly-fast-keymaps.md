@@ -28,6 +28,10 @@ zsh:1: command not found: s
     • ctrl+h : 
     • ctrl+p : 
     • ctrl+n : 
+  use of shift key:
+    • shift + a: move sursor at last of line, and entera in insert mode
+    • shift + s: deletes the complete line, and enters in insert mode
+    • 
 
   multi-cursors:
     • have n line and want to put those lines into an array. (many usecases are found)
