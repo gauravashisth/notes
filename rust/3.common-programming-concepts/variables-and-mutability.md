@@ -1,9 +1,9 @@
 # Variables and Constants:
 
-## Key Info(variables):
+## Key points(variables):
 - by default variables in rust are immutable, though any variable can be made mutable by using **mut** keyword.
 
-## Key Info(constants):
+## Key points(constants):
 - are valid for the entire time a program runs, within the scope in which they were declared.
 
 (the above property makes constants useful for values in your application domain that mutiple parts of program might need to know about,
@@ -17,11 +17,11 @@ such as the maximum number of points any player of a game is allowed to earn, or
   - let is used for definingvariables
   - const is used for defining constants
 - the scope
-  - 
+  - asdf
   - constants can be declared in any scope, including global scope 
   (which means them useful for values that many parts of code needs to know about)
-- 
-  - 
+- asdf
+  - asdf
   - constants may be set only to a constant expression, not the result of a value that could only be computed at runtime.
 - naming convention
   - for variables have no such conventions
