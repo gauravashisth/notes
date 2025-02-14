@@ -17,7 +17,7 @@ zsh:1: command not found: s
   use of g key:
     • gH: start select line mode
     • ga: show encoding
-    • gr{char}: replace a character, normal mode
+    • r{char}: replace a character, normal mode
     • {x}gg: go to line {x}
 
   use of ctrl key:
@@ -65,5 +65,3 @@ zsh:1: command not found: s
 		0
 		0
 		0
-~/.config/tmux/kanagawa.tmux
-
