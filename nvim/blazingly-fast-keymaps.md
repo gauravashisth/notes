@@ -21,21 +21,24 @@ zsh:1: command not found: s
     • {x}gg: go to line {x}
 
   use of ctrl key:
-    • ctrl+f : 
-    • ctrl+b : 
-    • ctrl+w : 
-    • ctrl+u : 
-    • ctrl+h : 
-    • ctrl+p : 
-    • ctrl+n : 
+    • ctrl + f : 
+    • ctrl + b : 
+    • ctrl + w : 
+    • ctrl + u : 
+    • ctrl + h : 
+    • ctrl + p : suggests words from current buffer {insert mode}
+    • ctrl + n : multiple matches exist, can cycle through them by pressing Ctrl + p (previous match) or Ctrl + n (next match).
+    • ctrl + x + ctrl + f : autocomplwte filenames
+    • ctrl + x + ctrl + l : autocomplwte whole lines
+    • ctrl + x + ctrl + o : omnifunc completion
   use of shift key:
     • shift + a: move sursor at last of line, and entera in insert mode
     • shift + s: deletes the complete line, and enters in insert mode
-    • 
+    • shift + y: yanks a complete line, and yanks from right of cursor
 
   multi-cursors:
     • have n line and want to put those lines into an array. (many usecases are found)
- 	    - ctrl+ v, vertical edit. and select line further below/above.
+ 	    - ctrl + v, vertical edit. and select line further below/above.
    	  - I, capital i, to go into insert mode.
    	  - add "data[0] = ". enter normal mode.
  	    - hence, changes will be applied to all the selected lines. 
@@ -62,3 +65,5 @@ zsh:1: command not found: s
 		0
 		0
 		0
+~/.config/tmux/kanagawa.tmux
+
