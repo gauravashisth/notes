@@ -11,10 +11,14 @@
             "id": "77ee5c7fd5c4a276",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cpp/1.cpp-basics/1.3objects-N-variables.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.3objects-N-variables"
             }
           }
         ]
@@ -166,8 +170,25 @@
   },
   "active": "77ee5c7fd5c4a276",
   "lastOpenFiles": [
-    "cpp/1.cpp-basics/test.md",
+    "dsa",
+    "cpp/1.cpp-basics/1.4variable-assignment-N-initialization.md",
+    "cpp/abc.md",
+    "cpp/1739863235-WTFQ.md",
+    "cpp/2.cpp-basics:functions-N-files/test.md",
+    "cpp/abc.txt",
+    "cpp/1.cpp-basics/1.3objects-N-variables.md",
+    "cpp/1.cpp-basics/1.2comments.md",
+    "cpp/1.cpp-basics/1.1statements-N-strucutre.md",
+    "rust/3.common-programming-concepts/commnents.md",
     "cpp/1.cpp-basics/1statements-N-strucutre.md",
+    "cpp/1.cpp-basics/comments.md",
+    "bash",
+    "cpp/cmake/1.basic-starting-point/exe1.md",
+    "cpp/cmake/0.introduction/intro.md",
+    "cpp/cmake/1.basic-starting-point",
+    "cpp/cmake/0.introduction",
+    "cpp/cmake",
+    "cpp/1.cpp-basics/test.md",
     "cmake/1.basic-starting-point/exe1.md",
     "rust/1.gettinCg-started/hello-cargo.md",
     "cpp/2.cpp-basics:functions-N-files/function-intro.md",

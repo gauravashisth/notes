@@ -1,4 +1,6 @@
 {
   "focusNewTab": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source",
+  "tabSize": 2,
+  "vimMode": true
 }
