@@ -1,4 +1,10 @@
- # Data Types:
+---
+id: data-types
+aliases: 
+tags: []
+---
+
+# Data Types:
 
 ## Key Information:
 - rust is a statically typed language.
@@ -23,4 +29,5 @@
   2. Floating-Point numbers
   3. Booleans
   4. Characters
+
 

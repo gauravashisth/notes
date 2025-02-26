@@ -1,3 +1,9 @@
+---
+id: variables-and-mutability
+aliases: []
+tags: []
+---
+
 # Variables and Constants:
 
 ## Key points(variables):
