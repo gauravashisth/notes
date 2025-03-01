@@ -18,12 +18,12 @@ tags: []
   - integer types in rust
       | Length | Signed | Unsigned |
       | -------| ------ | -------- |
-      |  8-bit |    i8  |   u8     |
+      | 8-bit |    i8  |   u8     |
       | 16-bit |   i16  |   u16    |
       | 32-bit |   i32  |   u32    |
       | 64-bit |   i68  |   u68    |
-      |128-bit |  i128  |   u128   |
-      |  arch  | isize  |   usize  |
+      | 128-bit |  i128  |   u128   |
+      | arch | isize  |   usize  |
   - 
 
   2. Floating-Point numbers
