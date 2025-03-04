@@ -1,4 +1,4 @@
-# Writing a hello world porgram in rust:
+# Writing a hello world program in rust:
 
 ## rust program
 ```rust
