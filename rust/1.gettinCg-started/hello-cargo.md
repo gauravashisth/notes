@@ -15,10 +15,12 @@ $ cd porject_name
 ```
 
 ### NOTE:
-- cargo also initialize a new git repo along with *.gitignore* file.
+
+- cargo also initialize a new git repo along with _.gitignore_ file.
 - cargo uses git as a default version control system, can use different VCS or no VCS by using _--vcs_ flag with **cargo new**.
 
 ### File name: Cargo.toml
+
 ```toml
 [package]
 name = "project_name"
@@ -33,4 +35,3 @@ edition = "2021"
 - **dependencies[]**, is the start of a section where to list any of your porject's dependencies.
   - in rust, packages of code are reffered to as crates, we won’t need any other crates for this project.
   - But we will in the first project in Chapter 2, so we’ll use this dependencies section then.
-
